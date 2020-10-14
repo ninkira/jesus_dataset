@@ -1,0 +1,647 @@
+{
+    "_via_settings": {
+        "ui": {
+            "annotation_editor_height": 25,
+            "annotation_editor_fontsize": 0.8,
+            "leftsidebar_width": 18,
+            "image_grid": {
+                "img_height": 80,
+                "rshape_fill": "none",
+                "rshape_fill_opacity": 0.3,
+                "rshape_stroke": "yellow",
+                "rshape_stroke_width": 2,
+                "show_region_shape": true,
+                "show_image_policy": "all"
+            },
+            "image": {
+                "region_label": "__via_region_id__",
+                "region_color": "Jesus",
+                "region_label_font": "10px Sans",
+                "on_image_annotation_editor_placement": "NEAR_REGION"
+            }
+        },
+        "core": {
+            "buffer_size": 18,
+            "filepath": {},
+            "default_filepath": ""
+        },
+        "project": {
+            "name": "Jesus am Kreuz"
+        }
+    },
+    "_via_img_metadata": {
+        "Albrecht_Altdorfer_um_1480_1538_Christus_am_Kreuz_Gemaeldegalerie_5eb69bb9.jpg527414": {
+            "filename": "Albrecht_Altdorfer_um_1480_1538_Christus_am_Kreuz_Gemaeldegalerie_5eb69bb9.jpg",
+            "size": 527414,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 356,
+                        "y": 201,
+                        "width": 314,
+                        "height": 404
+                    },
+                    "region_attributes": {
+                        "Jesus": "Jesus am Kreuz"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "Annibale_Carracci_1560_1609_Christus_am_Kreuz_Gemaeldegalerie_Staatliche_dbad7828.jpg878996": {
+            "filename": "Annibale_Carracci_1560_1609_Christus_am_Kreuz_Gemaeldegalerie_Staatliche_dbad7828.jpg",
+            "size": 878996,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 92,
+                        "y": 109,
+                        "width": 783,
+                        "height": 881
+                    },
+                    "region_attributes": {
+                        "Jesus": "Jesus am Kreuz"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "Bondone_Giotto_di_Arenakapelle_Scrovegni_Kapelle_Detailansicht_Die_d017e2e7.jpg753861": {
+            "filename": "Bondone_Giotto_di_Arenakapelle_Scrovegni_Kapelle_Detailansicht_Die_d017e2e7.jpg",
+            "size": 753861,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 302,
+                        "y": 130,
+                        "width": 987,
+                        "height": 1024
+                    },
+                    "region_attributes": {
+                        "Jesus": "Jesus am Kreuz"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "Christus_am_Kreuz_zwischen_Maria_und_Johannes_Gesamtansicht_Koeln_4ff0aa1e.jpg566186": {
+            "filename": "Christus_am_Kreuz_zwischen_Maria_und_Johannes_Gesamtansicht_Koeln_4ff0aa1e.jpg",
+            "size": 566186,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 14,
+                        "y": 19,
+                        "width": 1263,
+                        "height": 1339
+                    },
+                    "region_attributes": {
+                        "Jesus": "Jesus am Kreuz"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "Christus_am_Kreuz_zwischen_Maria_und_Johannes_Kupferstichkabinett_Staatliche_01cf452b.jpg478793": {
+            "filename": "Christus_am_Kreuz_zwischen_Maria_und_Johannes_Kupferstichkabinett_Staatliche_01cf452b.jpg",
+            "size": 478793,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 57,
+                        "y": 146,
+                        "width": 890,
+                        "height": 1098
+                    },
+                    "region_attributes": {
+                        "Jesus": "Jesus am Kreuz"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "Dieric_Bouts_Nachfolge_Christus_am_Kreuz_zwischen_Maria_und_Johannes_b5ffd520.jpg704597": {
+            "filename": "Dieric_Bouts_Nachfolge_Christus_am_Kreuz_zwischen_Maria_und_Johannes_b5ffd520.jpg",
+            "size": 704597,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 414,
+                        "y": 100,
+                        "width": 673,
+                        "height": 748
+                    },
+                    "region_attributes": {
+                        "Jesus": "Jesus am Kreuz"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "Duerer_Albrecht_Kleine_Passion_Christus_am_Kreuz_viele_Standorte_fa5eecbd.jpg1731198": {
+            "filename": "Duerer_Albrecht_Kleine_Passion_Christus_am_Kreuz_viele_Standorte_fa5eecbd.jpg",
+            "size": 1731198,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 76,
+                        "y": 18,
+                        "width": 2223,
+                        "height": 2147
+                    },
+                    "region_attributes": {
+                        "Jesus": "Jesus am Kreuz"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "Duerer_Albrecht_Kupferstich_Passion_11_Christus_am_Kreuz_viele_Standorte_d11c8c1a.jpg1897206": {
+            "filename": "Duerer_Albrecht_Kupferstich_Passion_11_Christus_am_Kreuz_viele_Standorte_d11c8c1a.jpg",
+            "size": 1897206,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 15,
+                        "y": 39,
+                        "width": 2056,
+                        "height": 2496
+                    },
+                    "region_attributes": {
+                        "Jesus": "Jesus am Kreuz"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "El_Greco_Der_Gekreuzigte_mit_Maria_Magdalena_Johannes_Evangelist_und_Engeln_b295c66d.jpg966396": {
+            "filename": "El_Greco_Der_Gekreuzigte_mit_Maria_Magdalena_Johannes_Evangelist_und_Engeln_b295c66d.jpg",
+            "size": 966396,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 79,
+                        "y": 188,
+                        "width": 1414,
+                        "height": 1745
+                    },
+                    "region_attributes": {
+                        "Jesus": "Jesus am Kreuz"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "Gabriel_Huquier_Orleans_1695_Parijs_1772_06_11_mentioned_on_object_ecbcce9f.jpg1612395": {
+            "filename": "Gabriel_Huquier_Orleans_1695_Parijs_1772_06_11_mentioned_on_object_ecbcce9f.jpg",
+            "size": 1612395,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 502,
+                        "y": 385,
+                        "width": 789,
+                        "height": 1022
+                    },
+                    "region_attributes": {
+                        "Jesus": "Jesus am Kreuz"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "Gerard_David_um_1460_1523_Christus_am_Kreuz_Gemaeldegalerie_Staatliche_3799a04e.jpg1146609": {
+            "filename": "Gerard_David_um_1460_1523_Christus_am_Kreuz_Gemaeldegalerie_Staatliche_3799a04e.jpg",
+            "size": 1146609,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 451,
+                        "y": 118,
+                        "width": 471,
+                        "height": 756
+                    },
+                    "region_attributes": {
+                        "Jesus": "Jesus am Kreuz"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "Giandomenico_Tiepolo_Jesus_stirbt_am_Kreuz_Venedig_San_Polo_e8d62989.jpg1459590": {
+            "filename": "Giandomenico_Tiepolo_Jesus_stirbt_am_Kreuz_Venedig_San_Polo_e8d62989.jpg",
+            "size": 1459590,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 11,
+                        "y": 41,
+                        "width": 669,
+                        "height": 1054
+                    },
+                    "region_attributes": {
+                        "Jesus": "Jesus am Kreuz"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "Giordano_Luca_1632_1705_01_12_Die_Schutzheiligen_Neapels_vor_dem_f4171620.jpg330982": {
+            "filename": "Giordano_Luca_1632_1705_01_12_Die_Schutzheiligen_Neapels_vor_dem_f4171620.jpg",
+            "size": 330982,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 381,
+                        "y": 8,
+                        "width": 584,
+                        "height": 1002
+                    },
+                    "region_attributes": {
+                        "Jesus": "Jesus am Kreuz"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "Hans_Suess_von_Kulmbach_1480_1522_Christus_am_Kreuz_zwischen_Maria_und_e1b51fcb.jpg799187": {
+            "filename": "Hans_Suess_von_Kulmbach_1480_1522_Christus_am_Kreuz_zwischen_Maria_und_e1b51fcb.jpg",
+            "size": 799187,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 26,
+                        "y": 28,
+                        "width": 952,
+                        "height": 869
+                    },
+                    "region_attributes": {
+                        "Jesus": "Jesus am Kreuz"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "Jan_van_Eyck_Nachfolge_Christus_am_Kreuz_Gemaeldegalerie_Eigentum_des_6bc074cf.jpg867950": {
+            "filename": "Jan_van_Eyck_Nachfolge_Christus_am_Kreuz_Gemaeldegalerie_Eigentum_des_6bc074cf.jpg",
+            "size": 867950,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 59,
+                        "y": 96,
+                        "width": 942,
+                        "height": 1053
+                    },
+                    "region_attributes": {
+                        "Jesus": "Jesus am Kreuz"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "Jesus_am_KreuzZweimal_zweiundfuenfzig_biblische_Geschichten_fuer_Schulen_und_c4f69797.jpg115882": {
+            "filename": "Jesus_am_KreuzZweimal_zweiundfuenfzig_biblische_Geschichten_fuer_Schulen_und_c4f69797.jpg",
+            "size": 115882,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 322,
+                        "y": 24,
+                        "width": 108,
+                        "height": 180
+                    },
+                    "region_attributes": {
+                        "Jesus": "Jesus am Kreuz"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "Jesus_am_KreuzZweymal_zwey_und_fuenfzig_biblische_Geschichten_fuer_Schulen_und_3945c35e.jpg168888": {
+            "filename": "Jesus_am_KreuzZweymal_zwey_und_fuenfzig_biblische_Geschichten_fuer_Schulen_und_3945c35e.jpg",
+            "size": 168888,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 182,
+                        "y": 19,
+                        "width": 251,
+                        "height": 449
+                    },
+                    "region_attributes": {
+                        "Jesus": "Jesus am Kreuz"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "Konrad_Witz_um_1400_um_1445_Christus_am_Kreuz_Gemaeldegalerie_Staatliche_70a6431d.jpg474606": {
+            "filename": "Konrad_Witz_um_1400_um_1445_Christus_am_Kreuz_Gemaeldegalerie_Staatliche_70a6431d.jpg",
+            "size": 474606,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 240,
+                        "y": 166,
+                        "width": 576,
+                        "height": 637
+                    },
+                    "region_attributes": {
+                        "Jesus": "Jesus am Kreuz"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "Kreuzigung_Christi_mit_den_Heiligen_Martin_und_Jakobus_Gesamtansicht_a1c7e4e1.jpg480398": {
+            "filename": "Kreuzigung_Christi_mit_den_Heiligen_Martin_und_Jakobus_Gesamtansicht_a1c7e4e1.jpg",
+            "size": 480398,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 413,
+                        "y": 114,
+                        "width": 737,
+                        "height": 813
+                    },
+                    "region_attributes": {
+                        "Jesus": "Jesus am Kreuz"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "Kunz_Georg_Messe_des_hl_Martin_Ausschnitt_mit_Darstellung_des_Zwettler_ac534231.jpg832432": {
+            "filename": "Kunz_Georg_Messe_des_hl_Martin_Ausschnitt_mit_Darstellung_des_Zwettler_ac534231.jpg",
+            "size": 832432,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 34,
+                        "y": 636,
+                        "width": 1211,
+                        "height": 1755
+                    },
+                    "region_attributes": {
+                        "Jesus": "Jesus am Kreuz"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "Meister_E_S_um_1420_1468_Christus_am_Kreuz_Kupferstichkabinett_e5ffca3f.jpg463237": {
+            "filename": "Meister_E_S_um_1420_1468_Christus_am_Kreuz_Kupferstichkabinett_e5ffca3f.jpg",
+            "size": 463237,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 102,
+                        "y": 102,
+                        "width": 830,
+                        "height": 876
+                    },
+                    "region_attributes": {
+                        "Jesus": "Jesus am Kreuz"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "Pier_Francesco_Sacchi_1485_1528_Christus_am_Kreuz_betrauert_von_den_drei_6505ec1a.jpg982669": {
+            "filename": "Pier_Francesco_Sacchi_1485_1528_Christus_am_Kreuz_betrauert_von_den_drei_6505ec1a.jpg",
+            "size": 982669,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 200,
+                        "y": 105,
+                        "width": 760,
+                        "height": 922
+                    },
+                    "region_attributes": {
+                        "Jesus": "Jesus am Kreuz"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "Psalter_Ms_Egerton_1066_fol_11_verso_Kreuzigung_London_British_Library_b275df79.jpg224076": {
+            "filename": "Psalter_Ms_Egerton_1066_fol_11_verso_Kreuzigung_London_British_Library_b275df79.jpg",
+            "size": 224076,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 21,
+                        "y": 158,
+                        "width": 1111,
+                        "height": 1309
+                    },
+                    "region_attributes": {
+                        "Jesus": "Jesus am Kreuz"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "Rembrandt_Harmensz_van_Rijn_1606_1669_Christus_am_Kreuz_Gesamtansicht_4e273c5a.jpg427835": {
+            "filename": "Rembrandt_Harmensz_van_Rijn_1606_1669_Christus_am_Kreuz_Gesamtansicht_4e273c5a.jpg",
+            "size": 427835,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 277,
+                        "y": 200,
+                        "width": 721,
+                        "height": 1223
+                    },
+                    "region_attributes": {
+                        "Jesus": "Jesus am Kreuz"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "Robert_Campin_Nachfolger_Christus_am_Kreuz_Gemaeldegalerie_Staatliche_d376b0b9.jpg946551": {
+            "filename": "Robert_Campin_Nachfolger_Christus_am_Kreuz_Gemaeldegalerie_Staatliche_d376b0b9.jpg",
+            "size": 946551,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 218,
+                        "y": 41,
+                        "width": 623,
+                        "height": 725
+                    },
+                    "region_attributes": {
+                        "Jesus": "Jesus am Kreuz"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "Sakramentar_Ms_63_fol_58_recto_Kreuzigung_Clermont_Ferrand_21048f4b.jpg559134": {
+            "filename": "Sakramentar_Ms_63_fol_58_recto_Kreuzigung_Clermont_Ferrand_21048f4b.jpg",
+            "size": 559134,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 161,
+                        "y": 282,
+                        "width": 942,
+                        "height": 887
+                    },
+                    "region_attributes": {
+                        "Jesus": "Jesus am Kreuz"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "Schwabach_bei_Nuernberg_Stadtkirche_St_Johannes_der_Taeufer_und_St_Martin_921dd80c.jpg594687": {
+            "filename": "Schwabach_bei_Nuernberg_Stadtkirche_St_Johannes_der_Taeufer_und_St_Martin_921dd80c.jpg",
+            "size": 594687,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 214,
+                        "y": 242,
+                        "width": 858,
+                        "height": 865
+                    },
+                    "region_attributes": {
+                        "Jesus": "Jesus am Kreuz"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "Unbekannt_Dom_Mosaik_Jesus_am_Kreuz_Monreale_Sizilien_IT_d30540d8.jpg2060228": {
+            "filename": "Unbekannt_Dom_Mosaik_Jesus_am_Kreuz_Monreale_Sizilien_IT_d30540d8.jpg",
+            "size": 2060228,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 259,
+                        "y": 425,
+                        "width": 1079,
+                        "height": 1276
+                    },
+                    "region_attributes": {
+                        "Jesus": "Jesus am Kreuz"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "Velazquez_Diego_Rodriguez_de_Silva_y_Christus_am_Kreuz_Madrid_21875be3.jpg1376168": {
+            "filename": "Velazquez_Diego_Rodriguez_de_Silva_y_Christus_am_Kreuz_Madrid_21875be3.jpg",
+            "size": 1376168,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 69,
+                        "y": 146,
+                        "width": 1825,
+                        "height": 2395
+                    },
+                    "region_attributes": {
+                        "Jesus": "Jesus am Kreuz"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "Zurbaran_Francisco_de_Kreuzigung_Gesamtansicht_Chicago_Art_Institute_5d5e24d2.jpg145105": {
+            "filename": "Zurbaran_Francisco_de_Kreuzigung_Gesamtansicht_Chicago_Art_Institute_5d5e24d2.jpg",
+            "size": 145105,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 42,
+                        "y": 184,
+                        "width": 840,
+                        "height": 1126
+                    },
+                    "region_attributes": {
+                        "Jesus": "Jesus am Kreuz"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        }
+    },
+    "_via_attributes": {
+        "region": {
+            "Jesus": {
+                "type": "text",
+                "description": "Jesus am Kreuz",
+                "default_value": ""
+            }
+        },
+        "file": {}
+    },
+    "_via_data_format_version": "2.0.10",
+    "_via_image_id_list": [
+        "Albrecht_Altdorfer_um_1480_1538_Christus_am_Kreuz_Gemaeldegalerie_5eb69bb9.jpg527414",
+        "Annibale_Carracci_1560_1609_Christus_am_Kreuz_Gemaeldegalerie_Staatliche_dbad7828.jpg878996",
+        "Bondone_Giotto_di_Arenakapelle_Scrovegni_Kapelle_Detailansicht_Die_d017e2e7.jpg753861",
+        "Christus_am_Kreuz_zwischen_Maria_und_Johannes_Gesamtansicht_Koeln_4ff0aa1e.jpg566186",
+        "Christus_am_Kreuz_zwischen_Maria_und_Johannes_Kupferstichkabinett_Staatliche_01cf452b.jpg478793",
+        "Dieric_Bouts_Nachfolge_Christus_am_Kreuz_zwischen_Maria_und_Johannes_b5ffd520.jpg704597",
+        "Duerer_Albrecht_Kleine_Passion_Christus_am_Kreuz_viele_Standorte_fa5eecbd.jpg1731198",
+        "Duerer_Albrecht_Kupferstich_Passion_11_Christus_am_Kreuz_viele_Standorte_d11c8c1a.jpg1897206",
+        "El_Greco_Der_Gekreuzigte_mit_Maria_Magdalena_Johannes_Evangelist_und_Engeln_b295c66d.jpg966396",
+        "Gabriel_Huquier_Orleans_1695_Parijs_1772_06_11_mentioned_on_object_ecbcce9f.jpg1612395",
+        "Gerard_David_um_1460_1523_Christus_am_Kreuz_Gemaeldegalerie_Staatliche_3799a04e.jpg1146609",
+        "Giandomenico_Tiepolo_Jesus_stirbt_am_Kreuz_Venedig_San_Polo_e8d62989.jpg1459590",
+        "Giordano_Luca_1632_1705_01_12_Die_Schutzheiligen_Neapels_vor_dem_f4171620.jpg330982",
+        "Hans_Suess_von_Kulmbach_1480_1522_Christus_am_Kreuz_zwischen_Maria_und_e1b51fcb.jpg799187",
+        "Jan_van_Eyck_Nachfolge_Christus_am_Kreuz_Gemaeldegalerie_Eigentum_des_6bc074cf.jpg867950",
+        "Jesus_am_KreuzZweimal_zweiundfuenfzig_biblische_Geschichten_fuer_Schulen_und_c4f69797.jpg115882",
+        "Jesus_am_KreuzZweymal_zwey_und_fuenfzig_biblische_Geschichten_fuer_Schulen_und_3945c35e.jpg168888",
+        "Konrad_Witz_um_1400_um_1445_Christus_am_Kreuz_Gemaeldegalerie_Staatliche_70a6431d.jpg474606",
+        "Kreuzigung_Christi_mit_den_Heiligen_Martin_und_Jakobus_Gesamtansicht_a1c7e4e1.jpg480398",
+        "Kunz_Georg_Messe_des_hl_Martin_Ausschnitt_mit_Darstellung_des_Zwettler_ac534231.jpg832432",
+        "Meister_E_S_um_1420_1468_Christus_am_Kreuz_Kupferstichkabinett_e5ffca3f.jpg463237",
+        "Pier_Francesco_Sacchi_1485_1528_Christus_am_Kreuz_betrauert_von_den_drei_6505ec1a.jpg982669",
+        "Psalter_Ms_Egerton_1066_fol_11_verso_Kreuzigung_London_British_Library_b275df79.jpg224076",
+        "Rembrandt_Harmensz_van_Rijn_1606_1669_Christus_am_Kreuz_Gesamtansicht_4e273c5a.jpg427835",
+        "Robert_Campin_Nachfolger_Christus_am_Kreuz_Gemaeldegalerie_Staatliche_d376b0b9.jpg946551",
+        "Sakramentar_Ms_63_fol_58_recto_Kreuzigung_Clermont_Ferrand_21048f4b.jpg559134",
+        "Schwabach_bei_Nuernberg_Stadtkirche_St_Johannes_der_Taeufer_und_St_Martin_921dd80c.jpg594687",
+        "Unbekannt_Dom_Mosaik_Jesus_am_Kreuz_Monreale_Sizilien_IT_d30540d8.jpg2060228",
+        "Velazquez_Diego_Rodriguez_de_Silva_y_Christus_am_Kreuz_Madrid_21875be3.jpg1376168",
+        "Zurbaran_Francisco_de_Kreuzigung_Gesamtansicht_Chicago_Art_Institute_5d5e24d2.jpg145105"
+    ]
+}
